@@ -1,6 +1,6 @@
-
 <img width="1200" height="350" alt="github" src="https://github.com/user-attachments/assets/7a0781e7-0d26-4b70-ad79-560382331792" />
-✍️ Engineering Journal: Idiakosa Ighile 🛠️
+
+## ✍️ Engineering Journal: Idiakosa Ighile 🛠️
 
 ### Build Log 📓
 Hi! My name is Idiakosa and I'm a 16-year-old engineer & programmer interested in pursuing studies in computer engineering!
@@ -20,6 +20,7 @@ Hi! My name is Idiakosa and I'm a 16-year-old engineer & programmer interested i
 ⚡ Fun fact: I love creative writing & poetry! My current favorite book is *Not About a Boy* by Myah Hollis 📖
 
 ---
+
 ### 🛠️ Tech Stack
 <p>
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
@@ -44,9 +45,3 @@ Hi! My name is Idiakosa and I'm a 16-year-old engineer & programmer interested i
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
   </a>
 </p>
-
---
-
-<!--### 📊 GitHub Stats
-![Idiakosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Idiakosa&show_icons=true&theme=tokyonight)
--->
