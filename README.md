@@ -1,12 +1,7 @@
 ## ✍️ Engineering Journal: Idiakosa Ighile 🛠️
 
 ### Build Log 📓
-Passionate about STEM and building a career in computer engineering.  
-Drawn to software engineering and robotics, especially computer vision.
 
----
-
-### 🚀 Featured Experiences
 - **MIT FutureMakers Engineer ’25** — Collaborated in a fast-paced create-a-thon to develop a deep learning app solution. Learned from industry speakers and explored AI applications to real-world problems.
 
 - **MetroTech Institute – Computational Science Research ’25** — Conducting research with George Mason University on quantum mechanics, culminating in a symposium presentation and publication in a sci-med journal.
