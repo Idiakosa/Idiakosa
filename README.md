@@ -28,5 +28,6 @@
 
 ---
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 ![Idiakosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Idiakosa&show_icons=true&theme=tokyonight)
+-->
