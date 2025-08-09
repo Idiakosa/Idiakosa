@@ -16,7 +16,6 @@ Hi! My name is Idiakosa and I'm a 16-year-old engineer & programmer interested i
 
 🌱 Currently learning **Django & app development**  
 📫 Reach me at **kosa3200@gmail.com**  
-😄 Pronouns: **she/her**  
 ⚡ Fun fact: I love creative writing & poetry! My current favorite book is *Not About a Boy* by Myah Hollis 📖
 
 ---
