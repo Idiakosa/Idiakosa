@@ -3,7 +3,7 @@
 ## ✍️ Engineering Journal: Idiakosa Ighile 🛠️
 
 ### Build Log 📓
-Hi! My name is Idiakosa and I'm a 16-year-old engineer & programmer interested in pursuing studies in computer engineering!
+Hi! My name is Idiakosa and I'm a 17-year-old engineer & programmer interested in pursuing studies in computer engineering!
 
 ### 🚀 Featured Experiences
 - **MIT FutureMakers Engineer ’25** — Collaborated in a fast-paced create-a-thon to develop a deep learning app solution. Learned from industry speakers and explored AI applications to real-world problems.
