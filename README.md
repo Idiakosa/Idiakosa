@@ -6,9 +6,9 @@
 Hi! My name is Idiakosa and I'm a 17-year-old engineer & programmer interested in pursuing studies in computer engineering!
 
 ### 🚀 Featured Experiences
-- **MIT FutureMakers Engineer ’25** — Collaborated in a fast-paced create-a-thon to develop a deep learning app solution. Learned from industry speakers and explored AI applications to real-world problems.
+- **MIT FutureMakers Engineer ’25** — Collaborated in a fast-paced create-a-thon to develop a deep learning app solution. Learned from industry speakers and explored AI applications to real-world problems. Trained deep learning models.
 
-- **MetroTech Institute – Computational Science Research ’25** — Conducting research with George Mason University on quantum mechanics, culminating in a symposium presentation and publication in a sci-med journal.
+- **MetroTech Institute – Computational Science Research ’25** — Conducted research with George Mason University on quantum mechanics, culminating in a symposium presentation and publication in a sci-med journal.
 
 - **Embed Ed (Treasurer & Tutor)** — Tutor middle schoolers in C++ and Arduino projects. Manage club funds and resources to support hands-on STEM learning.
 
