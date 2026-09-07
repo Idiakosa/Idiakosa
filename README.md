@@ -3,15 +3,15 @@
 ## ✍️ Engineering Journal: Idiakosa Ighile 🛠️
 
 ### Build Log 📓
-Hi! My name is Idiakosa and I'm a 17-year-old engineer & programmer interested in pursuing studies in computer engineering!
+Hi! My name is Idiakosa, and I'm a 17-year-old engineer & programmer interested in pursuing a career in robotics research!
 
 ### 🚀 Featured Experiences
+- **Technica Summer Fellowship ’26** — Selected as 1 of 16 fellows from a competitive applicant pool. Built a design request and asset timeline management system for visual design pipelines, featuring creator-based editing permissions, work-in-progress feedback, version control, and shared deadline tracking. Developed using Next.js, JSX, Tailwind CSS, and Firebase.
+
 - **MIT FutureMakers Engineer ’25** — Collaborated in a fast-paced create-a-thon to develop a deep learning app solution. Learned from industry speakers and explored AI applications to real-world problems. Trained deep learning models.
 
 - **MetroTech Institute – Computational Science Research ’25** — Conducted research with George Mason University on quantum mechanics, culminating in a symposium presentation and publication in a sci-med journal.
-
-- **Embed Ed (Treasurer & Tutor)** — Tutor middle schoolers in C++ and Arduino projects. Manage club funds and resources to support hands-on STEM learning.
-
+  
 ---
 
 🌱 Currently learning **Django & app development**  
